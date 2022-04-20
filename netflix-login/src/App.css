@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap"); /*  */
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -13,7 +15,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   width: 340px;
-  height: auto;
+  height: 100%;
   border-radius: 10px;
   position: relative;
   top: 0;
@@ -31,3 +33,4 @@ body {
   font-family: "Source Serif Pro", serif;
   background-color: rgb(39, 39, 39);
 }
+
